@@ -4,4 +4,5 @@ Pink
 Orange 
 Blue 
 Red
+Green
 This are the colors of the Reindbow.
